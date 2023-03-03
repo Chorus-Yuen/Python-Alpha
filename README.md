@@ -1,2 +1,5 @@
 # Python-Alpha
-Remaking Wordle
+
+Basically Wordle
+
+Finished in 01/2022
